@@ -6,7 +6,7 @@
 #### What you need to do? 
 - Appoint a security officer
 - Have a security@ email address.
-- Approve policies anually.
+- Approve policies annually.
 - Include tracking data in policies.
 - Make sure people are aware of policies/Train on policy.
 - work through violations process.
