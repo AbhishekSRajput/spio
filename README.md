@@ -88,4 +88,44 @@
 # 09. Network Security Policy.
 - Defines expectations around network security controls.
 #### What you need to do?
-- 
+- Network segmentation.
+- Restrict ports.
+- Remote access requires second factor.
+- Any network connections to 3rd parties through security.
+- Wireless networks secured.
+- External ports other than 80,443
+- Vulnerability scanning.
+- Use TLS(ssl network level security)
+
+# 10. Partner Security Policy.
+- To be secure, we need to make sure our partners are also secure.
+#### What you need to do?
+- Partner/vendor inventory.
+- Vendor management program.
+- Vendor access to data must be approved.
+
+# 11. Physical Security Policy.
+- Defines how the company will keep data safe at a physical level.
+#### What you need to do?
+- We use a robust data centers.
+- Access to office space.
+- Visitors approved and tracked.
+- Clean desk.
+
+# 12. The Risk Policy.
+- Defines the company's process for handling risk.
+#### What you need to do?
+- There is a risk program(that means we identify risks and we have a way to track them).
+- Risks are tracked in a risk register.
+- Active risk identification.
+- Periodic security audits.
+- General counsel tracks legal risk.
+
+# 13. Systems Security Policy.
+- Defines how IT systems are kept secure.
+#### What you need to do?
+- Build to secure standards (CIS).
+- Patch laptops, servers and containers frequently (30 days).
+- Patch critical fast (< 48 hours).
+- Scan for vulnerabilities.
+- Implement security monitoring(central logging)
