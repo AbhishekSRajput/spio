@@ -1,4 +1,4 @@
-# 01. Master Policy
+## 01. Master Policy
 - captures the overall structure of the policy set.
 - includes rules around updating and approval.
 - describes who needs to follow policies(employees and contractors).
@@ -11,7 +11,7 @@
 - Make sure people are aware of policies/Train on policy.
 - work through violations process.
 
-# 02. Acceptable Use Policy.
+## 02. Acceptable Use Policy.
 - Explains to employees and contractors what the expected use of company resources looks like.
 - The goal is to ensure that company resources aren't used in negligent or worse, criminal ways.
 - Covers: cloud, devices software, systems, and personal devices.
@@ -20,7 +20,7 @@
 - Company provided laptop/phone etc. are intended for use for company business. malicious or unlawful use of resources is not intended, sanctioned or supported and cloud be a violation of policy.
 - Cloud based storage should be used consistently within company approved workflows.
 
-# 03. The application security policy.
+## 03. The application security policy.
 - Explains to employees and contractors how we aim to build secure applications.
 #### What you need to do?
 - Have an software development life cycle(SDLC) and use a source code management system(github).
@@ -30,7 +30,7 @@
 - Security training(OWASP).
 - Libraries(Licensing + updating)
 
-# 04. Asset management.
+## 04. Asset management.
 - Keeping track of all the things.
 - Assets are computers, phones, keys, servers, licenses, etc.
 #### What you need to do?
@@ -38,7 +38,7 @@
 - Track laptops, servers, phones, keys, software licenses.
 - Verify quarterly that new assets are being tracked. 
 
-# 05. BCP(Business Continuity Planning) Policy.
+## 05. BCP(Business Continuity Planning) Policy.
 - Consideration is to be given to mission critical systems and how to keep them available to the degree necessary.
 #### What you need to do?
 - Business impact analysis to identify systems.
@@ -46,14 +46,14 @@
 - Have a test contingency plan.
 - metrics | a. recovery time objective(time to online) | b. recovery point objective(record lost?).
 
-# 06. Data classification policy.
+## 06. Data classification policy.
 - Defines sensitive data and how to handle it.
 #### What you need to do?
 - Secret: password, account number, PHI(personal health information), PII(personal identifiable information), SSN(social security number). | column/row based encryption.
 - Internal: internal processes and practices. | Full data encryption(FDE) or Transparent data encryption(TDE)
 - Public: Job description, Anything posted on socials
 
-# 07. Identify and access management(IAM).
+## 07. Identify and access management(IAM).
 - Has to do with how users are added and removed and how privileges area assigned.
 - Includes password policy
 #### What to do?
@@ -76,7 +76,7 @@
 - Deprovision process able to do it in two hours.
 - Audit users monthly.
 
-# 08. Incident Response Policy.
+## 08. Incident Response Policy.
 - Defines parameters around how to respond in case of an incident.
 #### What you need to do?
 - Track incident.
@@ -85,7 +85,7 @@
 - Notification by security officer.
 - Response team will be trained.
 
-# 09. Network Security Policy.
+## 09. Network Security Policy.
 - Defines expectations around network security controls.
 #### What you need to do?
 - Network segmentation.
@@ -97,14 +97,14 @@
 - Vulnerability scanning.
 - Use TLS(ssl network level security)
 
-# 10. Partner Security Policy.
+## 10. Partner Security Policy.
 - To be secure, we need to make sure our partners are also secure.
 #### What you need to do?
 - Partner/vendor inventory.
 - Vendor management program.
 - Vendor access to data must be approved.
 
-# 11. Physical Security Policy.
+## 11. Physical Security Policy.
 - Defines how the company will keep data safe at a physical level.
 #### What you need to do?
 - We use a robust data centers.
@@ -112,7 +112,7 @@
 - Visitors approved and tracked.
 - Clean desk.
 
-# 12. The Risk Policy.
+## 12. The Risk Policy.
 - Defines the company's process for handling risk.
 #### What you need to do?
 - There is a risk program(that means we identify risks and we have a way to track them).
@@ -121,7 +121,7 @@
 - Periodic security audits.
 - General counsel tracks legal risk.
 
-# 13. Systems Security Policy.
+## 13. Systems Security Policy.
 - Defines how IT systems are kept secure.
 #### What you need to do?
 - Build to secure standards (CIS).
