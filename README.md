@@ -129,3 +129,10 @@
 - Patch critical fast (< 48 hours).
 - Scan for vulnerabilities.
 - Implement security monitoring(central logging)
+
+# E. > Standards and regulations
+- Overview of CMMC(CyberSecurity Maturity Model Certification)
+  - Federal agencies routinely generate, use, store, and share information that, while not meeting the threshold for classification as national security or atomic energy information, require some level of protection fom unauthorized access  and release.
+- Controlled Unclassified Information (CUI):- 
+  - CUI is sensitive but unclassified information that is to be protected from pubic disclosure.
+   
